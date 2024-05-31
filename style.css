@@ -37,6 +37,7 @@ p {
   background-color: hsl(0, 0%, 100%);
   width: 320px;
   padding: 16px 16px 3rem 16px;
+  margin: 1.25rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
